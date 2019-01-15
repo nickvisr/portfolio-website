@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="9px" viewBox="0 0 15 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>arrowback</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrowback" transform="translate(7.500000, 4.500000) rotate(-90.000000) translate(-7.500000, -4.500000) translate(3.000000, -3.000000)" fill="#716060">
+            <path d="M8.27472342,6.62816473 L2.12226032,0.47508573 C1.63696092,-0.01021371 0.849273125,-0.01021371 0.363973725,0.47508573 C-0.121325575,0.96038513 -0.121325575,1.74807283 0.363973725,2.23337223 L5.63821742,7.50700003 L0.363973725,12.7812437 C-0.121325575,13.2665431 -0.121325575,14.0536149 0.363973725,14.5389143 C0.849273125,15.0242137 1.63696092,15.0242137 2.12226032,14.5389143 L8.27472342,8.38645123 C8.76002282,7.90053593 8.76002282,7.11346413 8.27472342,6.62816473 Z" id="Fill-118" transform="translate(4.319349, 7.507000) rotate(-180.000000) translate(-4.319349, -7.507000) "></path>
+        </g>
+    </g>
+</svg>
